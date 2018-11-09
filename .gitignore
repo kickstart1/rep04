@@ -1,2 +1,4 @@
 # Ignoring the files having .c extension
 *.c
+#ignoring local file in a folder
+tmp/*
